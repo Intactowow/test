@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-# test1my first change
-<<<<<<< HEAD
-my first change newbrancg
-=======
-newbrancg
+new text1231313
